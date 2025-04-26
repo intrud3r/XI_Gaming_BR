@@ -1,0 +1,58 @@
+[
+    {
+        "deathType": "UNKNOWN",
+        "active": 1,
+        "KillPhrases": [
+            "died, somehow?"
+        ]
+    },
+    {
+        "deathType": "PVP",
+        "active": 1,
+        "KillPhrases": [
+            ""
+        ]
+    },
+    {
+        "deathType": "SUICIDE",
+        "active": 1,
+        "KillPhrases": [
+            "killed themselves."
+        ]
+    },
+    {
+        "deathType": "BLEEDING",
+        "active": 1,
+        "KillPhrases": [
+            "bleed to death."
+        ]
+    },
+    {
+        "deathType": "STARVING",
+        "active": 1,
+        "KillPhrases": [
+            "starved to death."
+        ]
+    },
+    {
+        "deathType": "ZOMBIE",
+        "active": 1,
+        "KillPhrases": [
+            "Took on zombies and lost."
+        ]
+    },
+    {
+        "deathType": "ANIMAL",
+        "active": 1,
+        "KillPhrases": [
+            "fought a bear and the bear won."
+        ]
+    },
+    {
+        "deathType": "FALL",
+        "active": 1,
+        "KillPhrases": [
+            "fell to thier death."
+        ]
+    }
+]

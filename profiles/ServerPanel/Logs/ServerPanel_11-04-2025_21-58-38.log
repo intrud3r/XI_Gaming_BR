@@ -1,0 +1,12 @@
+---------------------------------------------
+ServerPanel log started at 11.04.2025 21:58:38
+
+11.04.2025 21:58:38 [ServerPanelLogger]: Will try to create ServerPanel log file in $profile:/ServerPanel/Logs/
+11.04.2025 21:58:38 [ServerPanelConfig]: Reading Server Config
+11.04.2025 21:58:38 [ServerPanelConfig]: Directory already exists: $profile:/ServerPanel
+11.04.2025 21:58:38 [ServerPanelConfig]: Log directory already exists: $profile:/ServerPanel/Logs/
+11.04.2025 21:58:38 [ServerPanelConfigRPC]: GetConfigRequest
+11.04.2025 21:58:38 [ServerPanelConfigRPC]: SyncPlayerStatsRequest
+11.04.2025 21:58:38 [ServerPanelConfigRPC]: SyncSidePanelInfoRequest
+11.04.2025 21:58:38 [ServerPanelHelpers]: Initialized ServerPanelBase
+11.04.2025 22:01:04 [ServerPanelConfigRPC]: Intruder (VCCXa5z0PvNuApK0J5mfYMZSHb_q9DB8VTnM5OLUKRw=) - Config sync

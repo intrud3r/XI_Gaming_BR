@@ -1,0 +1,46 @@
+{
+    "VERSION": "1.7",
+    "SERVERNAME": "Welcome to a server hosted by XI Gaming",
+    "LOGLEVEL": 1,
+    "BUTTON1NAME": "DISCORD",
+    "BUTTON1LINK": "https://discord.gg/Sy6FA7wRnr",
+    "BUTTON2NAME": "WEBSITE",
+    "BUTTON2LINK": "https://www.xtremeidiots.com/",
+    "BUTTON3NAME": "DONATE",
+    "BUTTON3LINK": "https://www.paypal.com/donate/?hosted_button_id=KYN934A3Z3X24",
+    "DISPLAYPLAYERINFO": 1,
+    "DISPLAYPLAYERTAB": 1,
+    "DISPLAYPLAYERLIST": 1,
+    "DISPLAYPLAYERPOSITION": 1,
+    "DISPLAYCRAFTTAB": 1,
+    "DISPLAYCURRENCY": 1,
+    "CURRENCYNAME": "ExpansionBanknoteHryvnia",
+    "DISPLAYPLOGO": 1,
+    "LOGOPATH": "set:dayz_gui image:ProgressDayZFull",
+    "LOGO_WIDTH_PERCENTAGE": 87.0,
+    "LOGO_HEIGHT_PERCENTAGE": 83.0,
+    "BUTTONTAB0NAME": "XI Info",
+    "BUTTONTAB1NAME": "Mods",
+    "BUTTONTAB2NAME": "",    
+    "sServerTab0": [
+        "<h1>INFORMATION</h1>",
+		"<p>Trader is new and being developed please report problems in discord</p>",
+        "<p>Please Join Discord for information</p>",
+		"<p>Trader system is coming</p>",		
+        "<p>This is a PVP Server</p>",        
+        "<p>XI Is a gaming community play with respect to others</p>"
+        
+    ],
+    "sServerTab1": [
+        "<h1>XI Mods Packed or Installed</h1>",        
+        "<p>Combinable Items</p>",
+        "<p>GasMasks Only</p>",
+        "<p>EarPlugs</p>",        
+        "<p>No Force Weapon Raise</p>",
+		"<p>Repair Pristine</p>", 
+		"<p>XI Movement</p>", 
+		"<p>Auto Run Z Key</p>"	        
+       		
+    ],
+    "sServerTab2": []
+}
