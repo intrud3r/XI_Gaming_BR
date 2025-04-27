@@ -10,7 +10,7 @@
     "PlayerData":
 	{
 		"disablePersonalLight": false,
-		"spawnGearPresetFiles": ["custom/custom_loadout_Kreios.json"],
+		"spawnGearPresetFiles": ["custom/vanilla_loadout.json"],
 		"StaminaData":
 		{
 			 "sprintStaminaModifierErc": 0.5,
