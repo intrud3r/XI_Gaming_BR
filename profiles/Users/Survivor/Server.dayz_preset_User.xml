@@ -900,6 +900,30 @@
         <btn name="mWheelDown" />
         <btn name="kApostrophe" />
     </input>
+    <input name="UACarimAutorunToggle">
+        <btn name="kAdd" />
+    </input>
+    <input name="UACarimChatChannel">
+        <btn name="kZ" />
+    </input>
+    <input name="UACarimChatSizeDown">
+        <btn name="kLBracket" />
+    </input>
+    <input name="UACarimChatSizeUp">
+        <btn name="kRBracket" />
+    </input>
+    <input name="UACarimCompassToggle">
+        <btn name="kH" />
+    </input>
+    <input name="UACarimPartyMenu">
+        <btn name="kP" />
+    </input>
+    <input name="UACarimPartyPing">
+        <btn name="kT" />
+    </input>
+    <input name="UACarimPartyPingClear">
+        <btn name="kY" />
+    </input>
     <input name="UACOTModuleToggleCOT">
         <btn name="kEnd" />
     </input>
@@ -1064,17 +1088,8 @@
     <input name="UADayZBRUnstuck">
         <btn name="kF2" />
     </input>
-    <input name="UADayZBRToggleEarplugsLegacy">
-        <btn name="kN" />
-    </input>
-    <input name="UADayZBRToggleMiniMap">
-        <btn name="kB" />
-    </input>
-    <input name="UADayZBRMiniMapZoomPlus">
-        <btn name="kAdd" />
-    </input>
-    <input name="UADayZBRMiniMapZoomMinus">
-        <btn name="kSubstract" />
+    <input name="UADayZBRDebug">
+        <btn name="kF3" />
     </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />

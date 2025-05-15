@@ -1,0 +1,47 @@
+{
+    "version": 1,
+    "end_in_villages": 1,
+    "end_avoid_type": [
+        "DeerStand",
+        "FeedShack",
+        "Marine"
+    ],
+    "end_avoid_city": [
+        "Camp_Shkolnik",
+        "Ruin_Voron",
+        "Settlement_Skalisty"
+    ],
+    "use_dynamic_zones": 1,
+    "min_zone_num": 4,
+    "shrink_type": 3,
+    "shrink_base": 2.7182817459106447,
+    "shrink_exponent": 3.0,
+    "static_sizes": [
+        35.0,
+        140.0,
+        562.0,
+        1125.0,
+        2250.0,
+        3375.0,
+        4500.0
+    ],
+    "static_timers": [
+        155,
+        260,
+        307,
+        495,
+        495,
+        495,
+        495
+    ],
+    "min_players": [
+        10,
+        10,
+        10,
+        11,
+        22,
+        33,
+        44
+    ],
+    "constant_scale": 0.6499999761581421
+}

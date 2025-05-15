@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "override_poi_positions": [
+        {
+            "poi_name": "Settlement_Chernogorsk",
+            "new_position": []
+        },
+        {
+            "poi_name": "Settlement_Novodmitrovsk",
+            "new_position": []
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "version": 1,
+    "num_zones": 6,
+    "round_duration_minutes": 5,
+    "show_spawn_selection_menu": 1,
+    "spawn_selection_radius": 50.0,
+    "time_until_teleport_unlock": 10,
+    "zone_notification_minutes": [
+        1,
+        2
+    ],
+    "zone_notification_seconds": [
+        30,
+        10
+    ],
+    "debug_heal_tick_seconds": 5,
+    "zone_damage_tick_seconds": 5,
+    "zone_damage_delta": 0.10000000149011612,
+    "enable_zone_damage": 1,
+    "hide_players_endgame": 0,
+    "show_first_zone_at_start": 1,
+    "artillery_sound": 1,
+    "airdrop_enabled": 1,
+    "airdrop_ignore_last_zones": 3,
+    "player_starting_clothes": [
+        "TrackSuitJacket_Red",
+        "TrackSuitPants_Red",
+        "JoggingShoes_Red"
+    ],
+    "player_starting_items": [
+        "HuntingKnife",
+        "BandageDressing",
+        "Compass",
+        "Battery9V",
+        "Battery9V"
+    ],
+    "use_spectate_whitelist": 1,
+    "auto_spectate_mode": 1,
+    "allowed_spectate_steamid64": [
+        "123456789123456789"
+    ]
+}

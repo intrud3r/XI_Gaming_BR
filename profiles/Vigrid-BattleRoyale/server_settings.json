@@ -1,0 +1,8 @@
+{
+    "version": 1,
+    "enable_vigrid_api": 0,
+    "server_password": "changeme",
+    "webhook_jwt_token": "changeme",
+    "force_match_uuid": 0,
+    "warning_no_uuid": 0
+}

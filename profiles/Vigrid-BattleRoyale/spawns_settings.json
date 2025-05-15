@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "spawn_point": [
+        14829.2001953125,
+        0.0,
+        14572.2998046875
+    ],
+    "radius": 50.0,
+    "spawn_in_villages": 1,
+    "spawn_in_first_zone": 1,
+    "extra_spawn_radius": 250,
+    "avoid_city_spawn": [
+        "Camp_Shkolnik",
+        "Hill_Zelenayagora",
+        "Settlement_Kumyrna",
+        "Ruin_Voron",
+        "Settlement_Skalisty",
+        "Settlement_Novoselki",
+        "Settlement_Dubovo",
+        "Settlement_Vysotovo"
+    ]
+}
